@@ -115,3 +115,12 @@ animation:move-clouds-back 200s linear infinite;
 .homepage-message {
   color: orange;
 }
+
+#planetNetflixImg {
+  max-width: 100%;
+  min-width: 100%;
+}
+
+#netflixP {
+  color: red;
+}
