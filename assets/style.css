@@ -103,3 +103,15 @@ animation:move-twink-back 200s linear infinite;
 -webkit-animation:move-clouds-back 200s linear infinite;
 animation:move-clouds-back 200s linear infinite;
 }
+
+.content {
+  padding: 15% 0 15% 0;
+}
+
+.gmail-row {
+  padding: 0 40% 0 40%;
+}
+
+.homepage-message {
+  color: orange;
+}
